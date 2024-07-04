@@ -1,8 +1,10 @@
 Spam Detection Project
 
-Made for IF 102 Lab
+Made for IF 102 Lab GIKI
 
-BS DS GIKI
+Authors
 
-Author
 Syed Areeb Zaheer
+Muhammad Ahmad Amjad
+Abdullah Ejaz Janjua
+Muhammad Haris
