@@ -1,10 +1,3 @@
 Spam Detection Project
 
-Made for IF 102 Lab GIKI
-
-Authors
-
-Syed Areeb Zaheer |
-Muhammad Ahmad Amjad |
-Abdullah Ejaz Janjua |
-Muhammad Haris
+Built a spam detection system using Python. Employed scikit-learn's CountVectorizer for feature extraction and an SVM model for classification. Included text preprocessing and evaluation with accuracy and classification reports.
